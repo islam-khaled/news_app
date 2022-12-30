@@ -26,7 +26,7 @@ void main() async{
   runApp( NewsApp(isDark!));
 }
 
-
+// test git queries
 class NewsApp extends StatelessWidget {
 bool isDark;
 NewsApp(this.isDark);
